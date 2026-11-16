@@ -1,0 +1,12 @@
+Company Leave Policy (Sample)
+
+Employees receive  casual leave and sick leave according to their employment
+agreement and the applicable company policy. Employees should submit leave
+requests to their manager through the HR portal before taking planned leave.
+
+For emergencies, employees should notify their manager as soon as reasonably
+possible. Leave approval depends on the employee's available balance and
+manager approval.
+
+This sample document is provided only to test the RAG application. Replace it
+with your own trusted PDF or TXT documents.
